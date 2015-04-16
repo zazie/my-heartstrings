@@ -2,10 +2,10 @@
 
 title: My Heartstrings
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: Thinking life with photos.
 logo: site-logo.png
 search: true
-url: http://zazie.github.io/myheartstrings
+url: http://zazie.github.io/my-heartstrings
 url: http://localhost:4000
 
 # Jekyll configuration
@@ -20,7 +20,7 @@ gems:
   - jekyll-sitemap
 
 kramdown:
-  auto_ids: true
+  auto_ids: false
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..2
@@ -34,19 +34,19 @@ comments: true
 # Site owner
 owner:
   name: Megumi M
-  avatar: bio-photo.jpg
+  avatar: http://s.gravatar.com/avatar/8ffb43e2b6d32330a370fd47b83fecbd?s=200
   email: zazie.tokyo@gmail.com
   disqus-shortname:
-  twitter: #zazie
-  facebook: #zazie.tokyo
-  github: #zazie
-  linkedin: #username
-  instagram: #zazie
-  flickr: #zazie-tyo
-  tumblr: #zazie
-  pinterest: #zazie
+  twitter: zazie
+  facebook: zazie.tokyo
+  github: zazie
+  linkedin:
+  instagram: zazie
+  flickr: zazie-tyo
+  tumblr: zazie-tyo
+  pinterest: megutv
   google:
-    plus: #MegumiOnoda
+    plus:
     analytics:
     verify:
     ad-client:
