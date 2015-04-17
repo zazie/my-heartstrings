@@ -8,6 +8,7 @@ tags: [life, living, thinking]
 image:
   feature: 2015-04-17-the-last-day.jpg
 date: 2015-04-17T22:36:19+09:00
+share: true
 ---
   育休最終日。
 惜しい気持ちから有意義に過ごそうとあれこれ当日に思いを巡らすも、昼寝することぐらいしか浮かばない。
